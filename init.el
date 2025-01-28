@@ -18,6 +18,7 @@
 
 (require 'init-basic)
 (require 'init-ui)
+(require 'init-tools)
 (require 'init-programming)
 
 (provide 'init)
